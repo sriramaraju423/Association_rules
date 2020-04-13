@@ -1,0 +1,23 @@
+After completing the association rules, there is requirement of manual intervention. Intution: Bread vs Milk
+
+Antecedent
+Consequent
+Support
+Confidence
+Lift ratio
+
+T = 100,000
+A = Strepcils & Orange juice
+C = Soup
+Support = 800/1000000
+Confidence = 800/2000
+Lift: only consquent value is not given to find benchmark confidence
+(800/2000)/(800/100000): If we were to consider 800 as total soup transactions.
+
+
+TO Check:
+SVD is also Dimension reduction technique which calculates PCA right? And PCA calculation is differenet in PCA and SVM right? It's altogether differenet technique right sir?
+What is the answer for slide 13?
+Support and confidence are they expressed in % or number? Slide 24
+
+Interview questions:
